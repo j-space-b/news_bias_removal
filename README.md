@@ -19,6 +19,12 @@ The News Bias Analyzer is a powerful tool designed to parse and assess political
 - Provides a political bias score on a scale of 1-10, for users to input their own political stance for personalized analysis
 - Identifies potential logical fallacies in the text as well
 
+## Prerequisite
+
+1. Get an [OpenAI API key](https://platform.openai.com/api-keys).
+2. Get a [Serper API key](https://serper.dev/api-key)
+3. Paste the API keys on the site.
+
 ## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
